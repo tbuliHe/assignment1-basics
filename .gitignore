@@ -1,6 +1,13 @@
 # workflow file
 workflow.ipynb
 
+# Wandb files
+wandb/
+
+# Data / Outputs
+data/
+outputs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
